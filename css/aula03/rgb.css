@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://cdn6.campograndenews.com.br/uploads/noticias/2025/10/12/c5e45d575e1f2840659bb9967f8a2a5da8ccb341.png);}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+#blue{
+    color: blue;
+}
+
+h2{
+    color: rgba(90, 25, 255, 0.678);
+}
+p{
+    /* HEX ou código hexadecimal representa uma cor especifica.
+    Esse código  é como voce recebera de seu designer as cores 
+    para construir os sites de seus clientes. */
+    color: #fc5c05;
+}

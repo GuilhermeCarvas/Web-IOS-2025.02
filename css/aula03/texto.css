@@ -1,0 +1,24 @@
+  /* Para usar uma fonte da internet podemos ud=sar o @import do site especificado. No exemplo abaixo utilizamos o site Google Fonts para importar a utilizar uma nova font-family*/
+
+  /* text-shadow 
+  1° valor: Deslocamento horizontal
+  2° valor: Deslocamento vertical
+  3° valor: Desfoque
+  4° valor: Cor da sombra */
+
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Sedan+SC&display=swap');
+
+h2{
+    font-family: "Sedan SC", serif;
+    font-size: 35px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-shadow: 0px 0px 5px blue;
+}
+
+p{
+    font-family: "Sedan SC", serif;
+    font-size: 18px;
+}
+
